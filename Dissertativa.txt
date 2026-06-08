@@ -1,0 +1,7 @@
+Dissertativa
+1 - Leia do teclado e armazene o valor de n; #Entrada
+2 - Aplique a subtração n-1 e armazene como primeiro dígito n1 #Processamento
+2 - Aplique a subtração 10-n e armazene como segundo dígito n2 #Processamento
+3- Aplique a multiplicação n1x10 e armazene terceiro dígito n3 ; #Processamento
+4- Aplique a soma n3+n2 e armazene como resultado final r ; #Processamento
+5 - Apresente na tela o resultado final r e finalize o programa; #Saída
